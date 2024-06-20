@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil do GitHub! 👋
 
-# ![snake gif](https://github.com/RhianGomes/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/RhianGomes/RhianGomes/blob/output/github-contribution-grid-snake.gif)
 
 
 
